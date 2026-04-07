@@ -1,3 +1,5 @@
+<img src="jgl_logo.jpg" width="200">
+
 # Hi, I'm Justin Gray 
 
 # Email: Justin.S.Gray@gmail.com 
@@ -20,6 +22,6 @@ I love numerical optimization, road biking, jet engine design, and legos.
 
 
 ## "Resume"
+- Co-Founder of [Toolpath](https://toolpath.com/) and CTO from 2020 to 2026
 - I led NASA's [OpenMDAO](https://openmdao.org/) project from 2008-2020
 - Co-Author of jet-engine design software [pyCycle](https://github.com/openmdao/pycycle)
-- Co-Founder of [Toolpath](https://toolpath.com/) and CTO from 2020 to 2026
