@@ -1,4 +1,4 @@
-<img src="jgl_logo.jpg" width="200">
+![JGL Logo](./jgl_logo_400.png)
 
 # Hi, I'm Justin Gray 
 
