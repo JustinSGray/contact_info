@@ -18,7 +18,7 @@ I love numerical optimization, road biking, jet engine design, and legos.
 
 - [The best numerical optimization textbook](https://mdobook.github.io/): Very mathy, but if you want to really understand how to do it, this is the place to start
 
-- [Suits: Speaking of Research R&D in the 1950's and 1960's](https://www.amazon.com/-/es/Suits-Speaking-research-C-Guy/dp/B0006BN3NE?tag=ustxtaddt-20): What it was like to be at the forefront of 
+- [Suits: Speaking of Research R&D in the 1950's and 1960's](https://www.amazon.com/-/es/Suits-Speaking-research-C-Guy/dp/B0006BN3NE?tag=ustxtaddt-20): Hear someone talk about holding one of the first ever man-made diamonds in his own hands
 
 
 ## "Resume"
