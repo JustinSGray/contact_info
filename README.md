@@ -2,8 +2,8 @@
 
 # Hi, I'm Justin Gray 
 
-# Email: jg@justingraylabs.com
-# Website: [JustinGrayLabs.com](JustinGrayLabs.com)
+### Email: jg@justingraylabs.com
+### Website: [JustinGrayLabs.com](JustinGrayLabs.com)
 
 # Who Am I? 
 
