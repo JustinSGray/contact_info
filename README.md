@@ -3,7 +3,7 @@
 # Hi, I'm Justin Gray 
 
 ### Email: jg@justingraylabs.com
-### Website: [JustinGrayLabs.com](JustinGrayLabs.com)
+### Website: [JustinGrayLabs.com](https://justinsgray.com)
 
 # Who Am I? 
 
