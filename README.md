@@ -1,4 +1,4 @@
-![[JGL Logo](./jgl_logo_400.png)][justingraylabs.com]
+![[JGL Logo](./jgl_logo_400.png)](justingraylabs.com)
 
 # Hi, I'm Justin Gray 
 
